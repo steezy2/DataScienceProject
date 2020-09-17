@@ -17,4 +17,4 @@ The Accuracy phase has run on Kaggle from May to 13th August 2018 (Winners to be
 The Throughput phase will run on Codalab starting in September 2018. Participants will submit their software which is evaluated by the platform. Incentive is on the throughput (or speed) of the evaluation while reaching a good score. This phase is an official NIPS competition (Montreal, Dec 2018).
 All the necessary information for the Accuracy phase is available here on Kaggle site. The overall TrackML challenge web site is [there](https://sites.google.com/site/trackmlparticle/).
 
-![Alt Text](\Extras\cern_graphic)
+![Alt Text](/Extras/cern_graphic.png)
